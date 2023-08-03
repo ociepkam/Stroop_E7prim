@@ -1,0 +1,12 @@
+EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
+training,trial_neu_neu,"['HHHHHHHH', 'HHHHHHHH']",#5e75d9,1,4,2.4905041998717934,z,m,False
+training,trial_neu_neu,"['HHHHHHHH', 'HHHHHHHH']",#574400,1,4,0.5145593001507223,x,m,False
+training,trial_inc_inc_space0,"['CZERWONY', 'CZERWONY']",#5e75d9,1,4,1.522815000033006,z,m,False
+training,trial_inc_inc_space2,"['BRAZOWY', 'BRAZOWY']",green,1,4,1.3116909000091255,n,m,False
+training,trial_inc_inc_space1,"['CZERWONY', 'CZERWONY']",#574400,1,4,2.5747243999503553,x,m,False
+training,trial_inc_inc_space2,"['CZERWONY', 'CZERWONY']",#5e75d9,1,4,1.3045711999293417,z,m,False
+training,trial_inc_inc_space1,"['NIEBIESKI', 'NIEBIESKI']",red,1,4,0.945120400050655,m,m,True
+training,trial_inc_inc_space0,"['NIEBIESKI', 'NIEBIESKI']",green,1,4,0.5404016999527812,n,m,False
+training,trial_inc_inc_space1,"['CZERWONY', 'CZERWONY']",#5e75d9,1,4,1.3933135999832302,z,m,False
+training,trial_inc_inc_space3,"['CZERWONY', 'CZERWONY']",#574400,1,4,-1,x,-,False
+training,trial_con_con,"['ZIELONY', 'ZIELONY']",green,1,4,-1,n,-,False
